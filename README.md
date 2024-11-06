@@ -17,7 +17,7 @@
 
 ## 🛠️ Instalación
 
-1. **Descargar e instalar**: Necesitarás **Minecraft Forge** o **Fabric** en su última versión compatible o en caso no tener instaladores de estos dos, utilizar CurseForge para la instalación en caso de tener cuenta premium, en caso contrario, utilizar SKLauncher, cualquier duda pregunta en nuestro discord listado más abajo!.
+1. **Descargar e instalar**: Necesitarás **Minecraft Forge** en su última versión compatible o en caso no tener instaladores de este, utilizar CurseForge para la instalación si tienes cuenta premium, en caso contrario, utilizar SKLauncher, cualquier duda pregunta en nuestro discord listado más abajo!.
 2. **Añadir el modpack**: Descarga el archivo del modpack **Cronusafio** e importalo en tu launcher.
 3. **Ejecuta Minecraft**: Inicia el juego y en caso tener problemas consultar a soporte.
 
